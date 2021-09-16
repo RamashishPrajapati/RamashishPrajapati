@@ -1,10 +1,27 @@
-### Hi, I'm Ramashish Prajapati 👋
+## Hi, I'm Ramashish Prajapati 👋
+Android Developer since 2014 | Kotlin | Java
 
-### About Me <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+### About Me ![programmer (1)](https://user-images.githubusercontent.com/13693026/133562421-007a510d-646c-4666-a053-721ed6460b56.png)
 
-I’m a software engineer who is passionate about mobile technologies and open sources
+I’m a software engineer who is passionate about mobile technologies.
 
+- 🔭 I’m currently working on: Upgrading the old apps
+- 🌱 I’m currently learning: Jetpack Compose|KMP|Ktor|Unit test in Android
+- ⚡ Fun fact: Still learning
+     
+### Technologies I worked on Android:
+- MVVM Architecture
+- Room presistences library
+- Coroutines
+- LiveData
+- CameraX
+- Retrofit
+- Volley
+- Gson
+- Moshi
+- GoogleMap
+- Navigation Componen
+- Other Jetpack Libraries
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -12,14 +29,16 @@ I’m a software engineer who is passionate about mobile technologies and open s
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> </p> 
-
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> </p> 
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/iamramashish?s=09" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramashish-prajapati-36bb7787" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.facebook.com/ramashish.prajapati.1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=1idngushop23d&utm_content=q6q5sj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="" height="40" width="40" /></a>
+<a href="https://t.me/Ramashishprajapati" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="" height="40" width="40" /></a>
+<a href="https://join.slack.com/t/ram-lgb5091/shared_invite/zt-vyam7ksk-cJfElrxriwwwVx6YqlMWGw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="" height="40" width="40" /></a></p>
 
 <h3 align="left">GitHub streak</h3>
 
